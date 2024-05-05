@@ -74,9 +74,34 @@ Now you should have both the backend and frontend servers running.
 
 ## System Design (Class Diagram)
 
+![Class Diagram](./img/class_diagram.jpg)
 
+## Functionality
+
+### Versatile Map
+
+> - The map shows all the ski slopes, lifts, slope endpoints, and lift stations. The edges are drawn using green lines and the nodes are labeled using blue markers.
+
+> - By clicking a marker, we can see the detailed information of that node in a popup.
+
+> - Within a message popup, we are able to select the current node as a start point or a destination point for path-finding.
+
+![Versatile Map](./img/versatile_map.png)
+
+### Find a Path with Preferences
+
+> Start and destination points selection with difficulties.
+
+![Versatile Map](./img/find_a_path.png)
+
+### Available Path Display
+
+> Display a list of available paths.
+
+> View the selected path.
 
 ## Demo
+
 
 
 
