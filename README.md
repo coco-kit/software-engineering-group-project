@@ -106,7 +106,9 @@ Now you should have both the backend and frontend servers running.
 
 ### Versatile Map Zooming Effect
 
-<img src="./img/zooming_effect.png" width="650" />
+<p align="center">
+<img src="./img/zooming_effect.png" width="600" />
+</p>
 
 ## Additional Information
 
