@@ -1,6 +1,8 @@
-# COMP-6905
+# Software Engineering Group Project
 
-In this project, we design a ski web application for skiers. This repository contains the backend, frontend applications for our project.
+We design a ski web application for skiers. This repository contains the backend, frontend applications for our project.
+
+In this project, I built the frontend application using React. Our documentation contains detailed information about the project.
 
 We have deployed our project to an online server. Please go to the URL: https://ski-resort-map.vercel.app/.
 
@@ -8,14 +10,12 @@ We have deployed our project to an online server. Please go to the URL: https://
 takes approximately 50 seconds to run from a cold state**. Thank you very
 much for being so understanding!
 
-
 ## Prerequisites
 
 Make sure you have the following installed on your machine:
 
 - Node.js
 - Yarn
-
 
 ## Getting Started
 
@@ -71,6 +71,10 @@ Make sure you have the following installed on your machine:
     This will start the frontend development server.
 
 Now you should have both the backend and frontend servers running.
+
+## Demo
+
+
 
 ## Additional Information
 
