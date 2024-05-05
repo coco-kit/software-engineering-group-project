@@ -104,10 +104,9 @@ Now you should have both the backend and frontend servers running.
 
 ![Selected Paths](./img/selected_path.png)
 
-## Demo
+### Versatile Map Zooming Effect
 
-
-
+![Zooming Effect](./img/zooming_effect.png)
 
 ## Additional Information
 
