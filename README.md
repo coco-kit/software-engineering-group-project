@@ -74,7 +74,9 @@ Now you should have both the backend and frontend servers running.
 
 ## System Design (Class Diagram)
 
-![Class Diagram](./img/class_diagram.jpg)
+<p align="center">
+<img src="./img/class_diagram.jpg" width="700" />
+</p>
 
 ## Functionality
 
@@ -86,23 +88,31 @@ Now you should have both the backend and frontend servers running.
 
 > - Within a message popup, we are able to select the current node as a start point or a destination point for path-finding.
 
+<p align="center">
 <img src="./img/versatile_map.png" width="700" />
+</p>
 
 ### Find a Path with Preferences
 
 > Start and destination points selection with difficulties.
 
+<p align="center">
 <img src="./img/find_a_path.png" width="360" />
+</p>
 
 ### Available Path Display
 
 > Display a list of available paths.
 
+<p align="center">
 <img src="./img/available_paths.png" width="360" />
+</p>
 
 > View the selected path.
 
+<p align="center">
 <img src="./img/selected_path.png" width="700" />
+</p>
 
 ### Versatile Map Zooming Effect
 
