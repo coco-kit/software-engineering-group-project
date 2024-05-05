@@ -2,7 +2,7 @@
 
 We design a ski web application for skiers. This repository contains the backend, frontend applications for our project.
 
-In this project, I built the frontend application using React. Our documentation contains detailed information about the project.
+> In this project, I built the frontend application using React. Our documentation contains detailed information about the project.
 
 We have deployed our project to an online server. Please go to the URL: https://ski-resort-map.vercel.app/.
 
