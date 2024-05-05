@@ -86,7 +86,7 @@ Now you should have both the backend and frontend servers running.
 
 > - Within a message popup, we are able to select the current node as a start point or a destination point for path-finding.
 
-<img src="./img/versatile_map.png" width="500" />
+<img src="./img/versatile_map.png" width="700" />
 
 ### Find a Path with Preferences
 
