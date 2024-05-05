@@ -110,15 +110,23 @@ Now you should have both the backend and frontend servers running.
 
 > View the selected path.
 
+> - The selected path from the start point to the end point is shown in a thick red line on the map. Other paths are greyed out to highlight the chosen path.
+
 <p align="center">
 <img src="./img/selected_path.png" width="700" />
 </p>
 
 ### Versatile Map Zooming Effect
 
+> We built our map with Leaflet which is a JavaScript library for creating interactive maps.
+
+> Our map can be zoomed in and out, and the coordinates of each node and path remain in the same relative position.
+
 <p align="center">
 <img src="./img/zooming_effect.png" width="600" />
 </p>
+
+> I also developed several additional functions: error handling, auto-filling, and mutual exclusion between switch buttons.
 
 ## Additional Information
 
