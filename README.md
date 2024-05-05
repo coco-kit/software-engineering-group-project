@@ -92,13 +92,17 @@ Now you should have both the backend and frontend servers running.
 
 > Start and destination points selection with difficulties.
 
-![Versatile Map](./img/find_a_path.png)
+![Find a Path](./img/find_a_path.png)
 
 ### Available Path Display
 
 > Display a list of available paths.
 
+![Available Paths](./img/available_paths.png)
+
 > View the selected path.
+
+![Selected Paths](./img/selected_path.png)
 
 ## Demo
 
