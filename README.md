@@ -92,7 +92,7 @@ Now you should have both the backend and frontend servers running.
 
 > Start and destination points selection with difficulties.
 
-<img src="./img/find_a_path.png" width="180" />
+<img src="./img/find_a_path.png" width="360" />
 
 ### Available Path Display
 
