@@ -86,27 +86,27 @@ Now you should have both the backend and frontend servers running.
 
 > - Within a message popup, we are able to select the current node as a start point or a destination point for path-finding.
 
-![Versatile Map](./img/versatile_map.png)
+<img src="./img/versatile_map.png" width="250" />
 
 ### Find a Path with Preferences
 
 > Start and destination points selection with difficulties.
 
-![Find a Path](./img/find_a_path.png)
+<img src="./img/find_a_path.png" width="180" />
 
 ### Available Path Display
 
 > Display a list of available paths.
 
-![Available Paths](./img/available_paths.png)
+<img src="./img/available_paths.png" width="180" />
 
 > View the selected path.
 
-![Selected Paths](./img/selected_path.png)
+<img src="./img/selected_path.png" width="250" />
 
 ### Versatile Map Zooming Effect
 
-![Zooming Effect](./img/zooming_effect.png)
+<img src="./img/zooming_effect.png" width="250" />
 
 ## Additional Information
 
