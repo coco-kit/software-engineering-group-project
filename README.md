@@ -1,6 +1,6 @@
 # Software Engineering Group Project
 
-We design a ski web application for skiers. This repository contains the backend, frontend applications for our project.
+We design a ski web application for skiers. This repository contains the backend and frontend applications for our project.
 
 > In this project, I built the frontend application using React. Our documentation contains detailed information about the project.
 
@@ -71,6 +71,10 @@ Make sure you have the following installed on your machine:
     This will start the frontend development server.
 
 Now you should have both the backend and frontend servers running.
+
+## System Design (Class Diagram)
+
+
 
 ## Demo
 
