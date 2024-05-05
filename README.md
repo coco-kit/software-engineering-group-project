@@ -98,15 +98,15 @@ Now you should have both the backend and frontend servers running.
 
 > Display a list of available paths.
 
-<img src="./img/available_paths.png" width="180" />
+<img src="./img/available_paths.png" width="360" />
 
 > View the selected path.
 
-<img src="./img/selected_path.png" width="250" />
+<img src="./img/selected_path.png" width="700" />
 
 ### Versatile Map Zooming Effect
 
-<img src="./img/zooming_effect.png" width="250" />
+<img src="./img/zooming_effect.png" width="650" />
 
 ## Additional Information
 
